@@ -1,0 +1,10 @@
+__pycache__
+*.pyc
+*.onnx
+*.pth
+*.npy
+data/
+!data/.gitkeep
+model/
+!model/.gitkeep
+.DS_Store
